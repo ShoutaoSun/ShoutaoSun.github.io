@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Shoutao&#39;Log</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Shoutao&#39;Log</description>
+    <title>LLM Security on Shoutao&#39;Log</title>
+    <link>http://localhost:1313/tags/llm-security/</link>
+    <description>Recent content in LLM Security on Shoutao&#39;Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 17 Nov 2024 16:23:32 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/llm-security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adversarial attacks and defenses for large language models (LLMs): methods, frameworks &amp; challenges</title>
       <link>http://localhost:1313/archive/adv_llm_11_17/</link>
       <pubDate>Sun, 17 Nov 2024 16:23:32 +0800</pubDate>
       <guid>http://localhost:1313/archive/adv_llm_11_17/</guid>
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;</description>
-    </item>
-    <item>
-      <title>Adversarial attacks and defenses for large language models (LLMs): methods, frameworks &amp; challenges</title>
-      <link>http://localhost:1313/posts/adv_llm_11_17/</link>
-      <pubDate>Sun, 17 Nov 2024 16:23:32 +0800</pubDate>
-      <guid>http://localhost:1313/posts/adv_llm_11_17/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
