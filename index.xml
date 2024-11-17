@@ -2,27 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Shoutao&#39;Log</title>
-    <link>http://localhost:1313/</link>
+    <link>https://ShoutaoSun.github.io/</link>
     <description>Recent content on Shoutao&#39;Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 17 Nov 2024 16:45:08 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ShoutaoSun.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Practical Tools of AI</title>
-      <link>http://localhost:1313/archive/tools/</link>
+      <link>https://ShoutaoSun.github.io/posts/tools/</link>
       <pubDate>Sun, 17 Nov 2024 16:45:08 +0800</pubDate>
-      <guid>http://localhost:1313/archive/tools/</guid>
-      <description>&lt;h2 id=&#34;some-practical-ai-tools&#34;&gt;Some practical AI tools&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;[手写体-流程图](&lt;a href=&#34;https://excalidraw.com/&#34;&gt;Excalidraw | Hand-drawn look &amp;amp; feel • Collaborative • Secure&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Practical Tools of AI</title>
-      <link>http://localhost:1313/posts/tools/</link>
-      <pubDate>Sun, 17 Nov 2024 16:45:08 +0800</pubDate>
-      <guid>http://localhost:1313/posts/tools/</guid>
+      <guid>https://ShoutaoSun.github.io/posts/tools/</guid>
       <description>&lt;h2 id=&#34;some-practical-ai-tools&#34;&gt;Some practical AI tools&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;[手写体-流程图](&lt;a href=&#34;https://excalidraw.com/&#34;&gt;Excalidraw | Hand-drawn look &amp;amp; feel • Collaborative • Secure&lt;/a&gt;)&lt;/li&gt;
@@ -30,16 +20,9 @@
     </item>
     <item>
       <title>Adversarial attacks and defenses for large language models (LLMs): methods, frameworks &amp; challenges</title>
-      <link>http://localhost:1313/archive/adv_llm_11_17/</link>
+      <link>https://ShoutaoSun.github.io/posts/adv_llm_11_17/</link>
       <pubDate>Sun, 17 Nov 2024 16:23:32 +0800</pubDate>
-      <guid>http://localhost:1313/archive/adv_llm_11_17/</guid>
-      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;</description>
-    </item>
-    <item>
-      <title>Adversarial attacks and defenses for large language models (LLMs): methods, frameworks &amp; challenges</title>
-      <link>http://localhost:1313/posts/adv_llm_11_17/</link>
-      <pubDate>Sun, 17 Nov 2024 16:23:32 +0800</pubDate>
-      <guid>http://localhost:1313/posts/adv_llm_11_17/</guid>
+      <guid>https://ShoutaoSun.github.io/posts/adv_llm_11_17/</guid>
       <description></description>
     </item>
   </channel>
