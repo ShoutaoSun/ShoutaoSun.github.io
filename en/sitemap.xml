@@ -2,18 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/adverllm/</loc>
+    <loc>https://ShoutaoSun.github.io/en/</loc>
     <lastmod>2024-11-17T09:52:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
-    <lastmod>2024-11-17T09:52:23+08:00</lastmod>
+    <loc>https://ShoutaoSun.github.io/en/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/posts/</loc>
+    <loc>https://ShoutaoSun.github.io/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://ShoutaoSun.github.io/en/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://ShoutaoSun.github.io/en/tags/</loc>
   </url>
 </urlset>
