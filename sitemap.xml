@@ -2,43 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://ShoutaoSun.github.io/</loc>
     <lastmod>2024-11-17T16:45:08+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://ShoutaoSun.github.io/posts/</loc>
     <lastmod>2024-11-17T16:45:08+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
+    <loc>https://ShoutaoSun.github.io/tags/ai/</loc>
     <lastmod>2024-11-17T16:45:08+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/tools/</loc>
+    <loc>https://ShoutaoSun.github.io/posts/tools/</loc>
     <lastmod>2024-11-17T16:45:08+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://ShoutaoSun.github.io/tags/</loc>
     <lastmod>2024-11-17T16:45:08+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/adversarial-attacks/</loc>
+    <loc>https://ShoutaoSun.github.io/tags/adversarial-attacks/</loc>
     <lastmod>2024-11-17T16:23:32+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/adv_llm_11_17/</loc>
+    <loc>https://ShoutaoSun.github.io/posts/adv_llm_11_17/</loc>
     <lastmod>2024-11-17T16:23:32+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ai-security/</loc>
+    <loc>https://ShoutaoSun.github.io/tags/ai-security/</loc>
     <lastmod>2024-11-17T16:23:32+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/large-language-models/</loc>
+    <loc>https://ShoutaoSun.github.io/tags/large-language-models/</loc>
     <lastmod>2024-11-17T16:23:32+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/llm-security/</loc>
+    <loc>https://ShoutaoSun.github.io/tags/llm-security/</loc>
     <lastmod>2024-11-17T16:23:32+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/friendlinks/</loc>
-    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+    <loc>https://ShoutaoSun.github.io/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://ShoutaoSun.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://ShoutaoSun.github.io/friends/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://ShoutaoSun.github.io/search/</loc>
   </url>
 </urlset>
