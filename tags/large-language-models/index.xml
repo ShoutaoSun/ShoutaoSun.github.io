@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Shoutao&#39;Log</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Shoutao&#39;Log</description>
+    <title>Large Language Models on Shoutao&#39;Log</title>
+    <link>http://localhost:1313/tags/large-language-models/</link>
+    <description>Recent content in Large Language Models on Shoutao&#39;Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 Nov 2024 16:45:08 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Practical Tools of AI</title>
-      <link>http://localhost:1313/posts/tools/</link>
-      <pubDate>Sun, 17 Nov 2024 16:45:08 +0800</pubDate>
-      <guid>http://localhost:1313/posts/tools/</guid>
-      <description>Some AI tools that I think are useful</description>
-    </item>
+    <lastBuildDate>Sun, 17 Nov 2024 16:23:32 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adversarial attacks and defenses for large language models (LLMs): methods, frameworks &amp; challenges</title>
       <link>http://localhost:1313/posts/adv_llm_11_17/</link>
