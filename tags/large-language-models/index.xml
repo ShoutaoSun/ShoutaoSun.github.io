@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Large Language Models on Shoutao&#39;Log</title>
-    <link>https://ShoutaoSun.github.io/tags/large-language-models/</link>
+    <link>http://localhost:1313/tags/large-language-models/</link>
     <description>Recent content in Large Language Models on Shoutao&#39;Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 Nov 2024 16:23:32 +0800</lastBuildDate>
-    <atom:link href="https://ShoutaoSun.github.io/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Dec 2024 08:58:19 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Basic Knowledge of Prompt Engineering</title>
+      <link>http://localhost:1313/posts/prompt_engineering/</link>
+      <pubDate>Sun, 01 Dec 2024 08:58:19 +0800</pubDate>
+      <guid>http://localhost:1313/posts/prompt_engineering/</guid>
+      <description>Some basic knowledge you must know during the process of Prompt Engineering learning💻</description>
+    </item>
     <item>
       <title>Adversarial attacks and defenses for large language models (LLMs): methods, frameworks &amp; challenges</title>
-      <link>https://ShoutaoSun.github.io/posts/adv_llm_11_17/</link>
+      <link>http://localhost:1313/posts/adv_llm_11_17/</link>
       <pubDate>Sun, 17 Nov 2024 16:23:32 +0800</pubDate>
-      <guid>https://ShoutaoSun.github.io/posts/adv_llm_11_17/</guid>
+      <guid>http://localhost:1313/posts/adv_llm_11_17/</guid>
       <description>A survey of adversarial attacks and defenses for LLM</description>
     </item>
   </channel>
