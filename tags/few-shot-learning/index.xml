@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Few-Shot Learning on Shoutao&#39;Log</title>
-    <link>http://localhost:1313/tags/few-shot-learning/</link>
+    <link>https://ShoutaoSun.github.io/tags/few-shot-learning/</link>
     <description>Recent content in Few-Shot Learning on Shoutao&#39;Log</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 14 Nov 2024 10:28:42 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/few-shot-learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ShoutaoSun.github.io/tags/few-shot-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Verify your Labels! Trustworthy Predictions and Datasets via Confidence Scores</title>
-      <link>http://localhost:1313/posts/labeltrust/</link>
+      <link>https://ShoutaoSun.github.io/posts/labeltrust/</link>
       <pubDate>Thu, 14 Nov 2024 10:28:42 +0800</pubDate>
-      <guid>http://localhost:1313/posts/labeltrust/</guid>
+      <guid>https://ShoutaoSun.github.io/posts/labeltrust/</guid>
       <description>A tool that verifies the trustworthiness of sample-label mappings in machine learning</description>
     </item>
   </channel>
